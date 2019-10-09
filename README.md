@@ -1,5 +1,8 @@
 # cordova-plugin-facebook4
 
+This is a fork of the jeduan cordova-plugin-facebook4, that has changes to exclude the zxing library. This is needed so that this plugin can co-exist with the barcode scanner plugin, for example. Taken from here: https://github.com/jeduan/cordova-plugin-facebook4/issues/777#issuecomment-517428763) 
+
+
 > Use Facebook SDK version 4 in Cordova projects
 
 ## Installation
